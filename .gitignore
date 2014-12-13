@@ -1,0 +1,11 @@
+#ignore backup files
+*.bak
+*.temp
+#ignore chain files
+*.cdf
+#ignore folds
+db/
+output_files/
+incremental_db/
+greybox_tmp/
+simulation/
